@@ -1,0 +1,58 @@
+body{
+    margin: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#getData{
+    color: white;
+    background-color: rgb(0, 70, 70);
+}
+
+#getList{
+    color: white;
+    background-color: rgb(0, 70, 70);
+}
+
+#message{
+    color: rgb(5, 121, 111);
+}
+
+#greeting{
+    color: brown;
+}
+
+/*****************BUTTONS*******************/
+
+button{
+    padding: 5px;
+    border-radius: 20%;
+    margin: 20px;
+}
+
+#submitForm{
+    color: rgb(5, 5, 5);
+    background-color: rgb(0, 255, 242);
+}
+
+/*****************POST******************/
+
+#post{
+    color: rgb(92, 91, 91);
+}
+
+h1{
+    color: black;
+    text-decoration: underline;
+}
+
+h2{
+    color: rgb(0, 97, 84);
+    text-decoration: overline;
+}
+
+ul{
+    padding: 30px;
+    list-style-type: none;
+}
+
